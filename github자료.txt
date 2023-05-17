@@ -18,3 +18,4 @@ git remote add [변수명] [원격지주소]
 --branch 생성--
 git branch [추가할 브랜치명]
 git checkout [작업할 브랜치명]
+================================
