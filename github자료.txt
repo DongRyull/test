@@ -1,3 +1,10 @@
 commit : push 이전에 내용을 반영
+
+--파일추가--
 git add  [작업할 파일 지정]
 git add . 이나 *을 넣으면, 전체 적용
+git commit
+git push [url] main
+
+--파일다운로드--
+git pull [url] main
