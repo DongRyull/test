@@ -1,5 +1,8 @@
+git 설치
 commit : push 이전에 내용을 반영
-
+-- 시작 --
+git init
+git clone [url]
 --파일추가--
 git add  [작업할 파일 지정]
 git add . 이나 *을 넣으면, 전체 적용
