@@ -6,8 +6,11 @@ git clone [url]
 --파일추가--
 git add  [작업할 파일 지정]
 git add . 이나 *을 넣으면, 전체 적용
-git commit
+git commit -m "변경사항 내용"
 git push [url] main
 
---파일다운로드--
+--파일다운로드(update)--
 git pull [url] main
+
+define 기능
+git remote add [변수명] [원격지주소]
